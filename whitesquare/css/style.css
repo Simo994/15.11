@@ -1,0 +1,52 @@
+.main-bg-gray {
+    background-color: #fbfbfb;
+}
+
+.nav .nav-item a {
+    font-weight: 600;
+}
+
+.logo-img {
+    width: 20px;
+    height: 20px;
+    border: 2px solid #0dcaf0;
+    ;
+    border-radius: 2px;
+    margin-top: -23px;
+}
+
+.logo-text {
+    font-size: 26px;
+}
+
+.nav-sidebar .nav-item {
+    border: 1px solid #c5c5c5;
+    background-color: #fbfbfb;
+}
+
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+}
+
+.out-offices {
+    border: 1px solid #c5c5c5;
+    background-color: #fbfbfb;
+}
+
+.col-sm-8 .fakeimg {
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+    margin: 10px;
+}
+
+.people-img{
+    width: 150px;
+    height: 150px;
+    background-color: #c5c5c5;
+}
+
+footer{
+    height: 200px;
+}
